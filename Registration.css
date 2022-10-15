@@ -1,0 +1,37 @@
+/* CSS RESET */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(216, 214, 252);
+}
+
+.header{
+    text-align: center;
+    margin: 5px;
+}
+
+#table{
+    width: 50%;
+    margin: 5px;
+    padding: 2px;
+    border-spacing: 10px;
+}
+
+td, tr{
+    padding: 5px;
+}
+
+.label{
+    background-color: rgb(238, 224, 252);
+}
+
+.input{
+    background-color:  rgb(238, 224, 252);
+}
+
+h1{
+    text-align: center;
+}
